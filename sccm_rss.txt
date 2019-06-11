@@ -9,7 +9,6 @@ http://liashov.com/?feed=rss2
 https://www.systemcenterdudes.com/feed/
 http://osddeployment.wordpress.com/feed/
 http://miketerrill.net/feed/
-http://www.martyncoupland.co.uk/feed/
 http://norphus.co.uk/feed/
 http://allthingsconfigmgr.wordpress.com/feed/
 http://mearsma.wordpress.com/feed/
@@ -17,7 +16,6 @@ http://systemmanagement.ro/blog/feed/
 http://www.nomizo.fr/feeds/posts/default
 http://anotherblabla.wordpress.com/feed/
 http://anoopcnair.com/feed/
-https://serverengineering.ru/feed/
 http://www.osd-couture.com/feeds/posts/default
 http://deploymentramblings.wordpress.com/feed/
 http://gerryhampsoncm.blogspot.com/feeds/posts/default
@@ -25,7 +23,6 @@ http://www.systemcenterblog.nl/feed/
 http://www.ronnipedersen.com/feed/
 http://blog.coretech.dk/category/confmgr/feed/
 http://blogs.technet.com/b/jchalfant/rss.aspx
-http://myitforum.com/cs2/blogs/chobbs/rss.aspx
 http://dekeukelaere.com/feed/
 http://mwesterink.wordpress.com/feed/
 http://www.thesccm.com/feed/
@@ -56,14 +53,12 @@ http://systemcenter2012.com/blogs/vnext/rss.aspx
 http://stevethompsonmvp.wordpress.com/feed/
 http://mentalseepage.wordpress.com/feed/
 http://jankesblog.com/feed/
-http://www.sysctr.info/feeds/posts/default?alt=rss
 http://www.david-obrien.net/feed/
 http://feeds.feedburner.com/EnhansoftBlog
 http://freshblog.azurewebsites.net/feed/
 http://henkhoogendoorn.blogspot.com/feeds/posts/default
 http://www.damianflynn.com/feed/
 https://timmyit.com/author/timmyit/feed/
-http://depsharee.blogspot.com/feeds/posts/default
 http://asithadesilva.wordpress.com/feed/
 http://www.deploymentresearch.com/Blog/tabid/62/rssid/1/Default.aspx
 https://ndswanson.wordpress.com/feed/
@@ -74,7 +69,6 @@ http://blogs.technet.com/b/smartinez/rss.aspx
 http://mdtguy.wordpress.com/feed/
 https://www.deploymentmadscientist.com/feed/
 http://blog.configmgrftw.com/?feed=rss2
-http://www.ryantechnologies.co.uk/feeds/posts/default
 http://scug.be/sccm/feed/
 http://gregramsey.net/feed/
 http://edmundlim6.wordpress.com/feed/
