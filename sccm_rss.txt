@@ -135,3 +135,4 @@ https://vanyurikhin.blog/feed/
 https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/fe03b3df-e8b7-f579-f179-07b6ee58f394/rss
 https://techcommunity.microsoft.com/gxcuf89792/plugins/custom/microsoft/o365/custom-blog-rss?board=ConfigurationManagerBlog&label=&messages=&size=50
 https://techcommunity.microsoft.com/gxcuf89792/plugins/custom/microsoft/o365/custom-blog-rss?board=DeviceManagementMicrosoft&label=&messages=&size=50
+https://oofhours.com/feed/
