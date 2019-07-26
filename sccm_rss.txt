@@ -137,3 +137,4 @@ https://techcommunity.microsoft.com/gxcuf89792/plugins/custom/microsoft/o365/cus
 https://techcommunity.microsoft.com/gxcuf89792/plugins/custom/microsoft/o365/custom-blog-rss?board=DeviceManagementMicrosoft&label=&messages=&size=50
 https://oofhours.com/feed/
 https://configgirl.com/feed
+https://sccmf12twice.com/our-blog/feed
