@@ -60,7 +60,7 @@ http://henkhoogendoorn.blogspot.com/feeds/posts/default
 http://www.damianflynn.com/feed/
 https://timmyit.com/author/timmyit/feed/
 http://asithadesilva.wordpress.com/feed/
-http://www.deploymentresearch.com/Blog/tabid/62/rssid/1/Default.aspx
+https://deploymentresearch.com/feed/
 https://ndswanson.wordpress.com/feed/
 https://karthickjokirathinam.com/feed/
 https://expertslab.wordpress.com/feed/
