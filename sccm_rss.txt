@@ -138,3 +138,6 @@ https://techcommunity.microsoft.com/gxcuf89792/plugins/custom/microsoft/o365/cus
 https://oofhours.com/feed/
 https://configgirl.com/feed
 https://sccmf12twice.com/our-blog/feed
+https://www.pelegit.co.il/category/system-center/sccm/feed
+https://ershovis.wordpress.com/feed
+https://pfe.tips/feed
