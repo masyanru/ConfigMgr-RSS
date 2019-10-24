@@ -2,7 +2,7 @@ FROM python:3.6-alpine
 
 WORKDIR /app
 
-ARG TELEGRAMTOKEN=empty_value
+ARG TELEGRAMTOKEN
 
 COPY requirements.txt /app/
 RUN pip3 install -r requirements.txt
