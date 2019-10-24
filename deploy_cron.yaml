@@ -1,7 +1,7 @@
 apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
-  name: ConfigMgrRSSCICD
+  name: configmgr-rss-ci-cd
 spec:
   schedule: "0 8 * * *"
   jobTemplate:
