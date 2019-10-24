@@ -7,6 +7,7 @@ from time import mktime, strftime
 import telebot
 import feedparser
 import pickle
+import os
 
 """
 import sys
@@ -14,10 +15,12 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 """
 
+telegramToken = os.environ['TELEGRAMTOKEN']
+
 # создание бота с его токеном API и подгружаем конфиг
 config = configparser.ConfigParser()
 config.read("config.ini")
-bot = telebot.TeleBot(config["Telegram"]["access_token"])
+bot = telebot.TeleBot(telegramToken)
 
 
 def auto_posting():
