@@ -9,7 +9,7 @@ spec:
       template:
         spec:
           containers:
-          - name: masyanru/configmgr-rss
+          - name: configmgr-rss
             image: masyan.azurecr.io/masyanru/configmgr-rss
           imagePullSecrets:
           - name: masyancr
