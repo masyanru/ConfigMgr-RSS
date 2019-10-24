@@ -58,16 +58,16 @@ print('лента', rss)
 
 if rss is None:
     # sccm channel
-    # bot.send_message('-1001054149356', "Сегодня новостей нет! ;( ")
+    bot.send_message('-1001054149356', "Сегодня новостей нет! ;( ")
     # test channel
-    bot.send_message('-179710499', "Сегодня новостей нет! ;( ")
+    # bot.send_message('-179710499', "Сегодня новостей нет! ;( ")
 else:
     # sccm channel
-    # bot.send_message('-1001054149356', "Configuration Manager news: \n\n" + "".join(rss), parse_mode="Markdown",disable_web_page_preview=True)
+    bot.send_message('-1001054149356', "Configuration Manager news: \n\n" + "".join(rss), parse_mode="Markdown",disable_web_page_preview=True)
     # test channel
     with open('rss_sccm.txt', 'w') as f:
         f.write(str(rss))
 
-    bot.send_message('-179710499', "Configuration Manager news: \n\n" + "".join(rss), parse_mode="Markdown", disable_web_page_preview=True)
+    # bot.send_message('-179710499', "Configuration Manager news: \n\n" + "".join(rss), parse_mode="Markdown", disable_web_page_preview=True)
     f.close()
     # bot.send_message('-179710499', title + ' ' + url, disable_web_page_preview=True)
