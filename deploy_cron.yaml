@@ -1,0 +1,16 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: sccmrsscron
+spec:
+  schedule: "0 8 * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: sccmrsscron
+            image: masyan.azurecr.io/sccmrss
+          imagePullSecrets:
+          - name: masyancr
+          restartPolicy: OnFailure
