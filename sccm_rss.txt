@@ -147,3 +147,4 @@ https://byteben.com/bb/feed
 https://systemcenter4all.wordpress.com/feed/
 https://configmgrmusings.blogspot.com/feeds/posts/default
 https://russthepfe.com/feed
+https://www.oscc.be/feed.xml
