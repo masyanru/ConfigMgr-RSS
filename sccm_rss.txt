@@ -68,7 +68,7 @@ https://technofocusin.wordpress.com/feed/
 http://blogs.technet.com/b/smartinez/rss.aspx
 http://mdtguy.wordpress.com/feed/
 https://www.deploymentmadscientist.com/feed/
-http://blog.configmgrftw.com/?feed=rss2
+https://home.configmgrftw.com/feed/
 http://scug.be/sccm/feed/
 http://gregramsey.net/feed/
 http://edmundlim6.wordpress.com/feed/
@@ -148,3 +148,4 @@ https://systemcenter4all.wordpress.com/feed/
 https://configmgrmusings.blogspot.com/feeds/posts/default
 https://russthepfe.com/feed
 https://www.oscc.be/feed.xml
+https://www.get-itguy.com/feeds/posts/default?alt=rss
