@@ -149,3 +149,4 @@ https://configmgrmusings.blogspot.com/feeds/posts/default
 https://russthepfe.com/feed
 https://www.oscc.be/feed.xml
 https://www.get-itguy.com/feeds/posts/default?alt=rss
+https://cdn.mamkinboycast.ru/feed/podcast
