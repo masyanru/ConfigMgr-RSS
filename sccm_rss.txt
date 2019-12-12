@@ -153,5 +153,5 @@ https://cdn.mamkinboycast.ru/feed/podcast
 https://2pintsoftware.com/feed/
 https://4sysops.com/tag/sccm/feed
 https://dyctl.com/feed
-http://www.recastsoftware.com/blog/rss.xml
+https://www.recastsoftware.com/blog/rss.xml
 https://someguy100.wixsite.com/sccm802dot1x/blog-feed.xml
