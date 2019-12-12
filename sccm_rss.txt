@@ -155,3 +155,4 @@ https://4sysops.com/tag/sccm/feed
 https://dyctl.com/feed
 https://www.recastsoftware.com/blog/rss.xml
 https://someguy100.wixsite.com/sccm802dot1x/blog-feed.xml
+http://www.walshamsolutions.com/feed/rss2
