@@ -156,3 +156,5 @@ https://dyctl.com/feed
 https://www.recastsoftware.com/blog/rss.xml
 https://someguy100.wixsite.com/sccm802dot1x/blog-feed.xml
 http://www.walshamsolutions.com/feed/rss2
+https://sysmansquad.com/blog/feed
+https://z-nerd.com/blog/index.xml
