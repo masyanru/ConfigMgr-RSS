@@ -34,7 +34,7 @@ https://adameaddy.wordpress.com/feed/
 http://www.mytechstuff.info/feeds/posts/default
 http://scriptimus.wordpress.com/feed/
 http://cm12sdk.net/?feed=rss2
-http://smsagent.wordpress.com/feed/
+https://smsagent.blog/feed
 http://msandbu.wordpress.com/feed/
 http://www.desktopmgmt.com/?feed=rss2
 http://www.nyhu.us/feed/
