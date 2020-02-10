@@ -160,3 +160,4 @@ https://sysmansquad.com/blog/feed
 https://z-nerd.com/blog/index.xml
 https://currentranch.blogspot.com/feeds/posts/default
 https://www.phoenixtekk.com/feed/
+https://qtechbabble.wordpress.com/category/sccm/feed
