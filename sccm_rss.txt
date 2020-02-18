@@ -34,7 +34,7 @@ https://adameaddy.wordpress.com/feed/
 http://www.mytechstuff.info/feeds/posts/default
 http://scriptimus.wordpress.com/feed/
 http://cm12sdk.net/?feed=rss2
-http://smsagent.wordpress.com/feed/
+https://smsagent.blog/feed
 http://msandbu.wordpress.com/feed/
 http://www.desktopmgmt.com/?feed=rss2
 http://www.nyhu.us/feed/
@@ -102,7 +102,7 @@ http://ephingadmin.com/feed/
 http://www.systemcentercentral.com/blog/config-manager/feed/
 http://sccm.pro/?feed=rss2
 http://www.jamesbannanit.com/feed/
-http://thedesktopteam.com/feed/
+https://thedesktopteam.com/feed
 http://msincic.wordpress.com/feed/
 http://wbracken.wordpress.com/feed/
 http://systemcenterforefront.blogspot.com/feeds/posts/default
@@ -158,3 +158,6 @@ https://someguy100.wixsite.com/sccm802dot1x/blog-feed.xml
 http://www.walshamsolutions.com/feed/rss2
 https://sysmansquad.com/blog/feed
 https://z-nerd.com/blog/index.xml
+https://currentranch.blogspot.com/feeds/posts/default
+https://www.phoenixtekk.com/feed/
+https://qtechbabble.wordpress.com/category/sccm/feed
