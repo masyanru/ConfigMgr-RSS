@@ -163,3 +163,5 @@ https://www.phoenixtekk.com/feed/
 https://qtechbabble.wordpress.com/category/sccm/feed
 https://www.configjon.com/feed
 https://howtomanagedevices.com/feed/
+http://harjit.us/feed/
+https://home.memftw.com/feed/
