@@ -14,4 +14,3 @@ spec:
           imagePullSecrets:
           - name: masyancr
           restartPolicy: OnFailure
-fthfhg
